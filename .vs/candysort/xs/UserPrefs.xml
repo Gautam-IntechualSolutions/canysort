@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4B08BFAA-9430-44E3-DDA8-E8C871668EFF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/platform.cs">
+    <Files>
+      <File FileName="Assets/Scripts/game.cs" Line="125" Column="36" />
+      <File FileName="Assets/Scripts/AudioManager.cs" Line="16" Column="57" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="15" Column="21" />
+      <File FileName="Assets/Scripts/gameover.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/platform.cs" Line="28" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="candysort" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="platform.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ca7326b0-e81a-4331-a269-2175252de6eb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
